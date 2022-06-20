@@ -26,4 +26,4 @@ function criaSegundaFrase(num1, num2) {
 	}
 	return `Sua soma é ${soma}, que é maior do que 10 e menor do que 20.`;
 }
-console.log(comparaNumeros());
+console.log(comparaNumeros(1, 5));
